@@ -1,5 +1,6 @@
 Basic python script for filtering data<br>
-Expected output of the code is ![](z_boson_plot_result.png)
+Check the src folder for code and data used.<br>
+Expected output of the code is ![](src/z_boson_plot_result.png)
 
 
 # FILTERING:
